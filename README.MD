@@ -1,7 +1,7 @@
 Hướng dẫn Spring Boot
 =========================
 
-![Spring Boot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
+<!-- ![Spring Boot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
 ![Mysql 5.6](https://img.shields.io/badge/Mysql-5.6-blue.svg)
 ![JDK 1.8](https://img.shields.io/badge/JDK-1.8-brightgreen.svg)
 ![Maven](https://img.shields.io/badge/Maven-3.5.0-yellowgreen.svg)
@@ -73,7 +73,7 @@ Lướt dạo rồi té :'(
 ## Cài đặt 
 
 :christmas_tree: Xem chi tiết hướng dẫn bằng video: [https://www.youtube.com/watch?v=fEzH_08iti4](https://www.youtube.com/watch?v=fEzH_08iti4) 
-
+ -->
 1. Clone hoặc Download dự án này về máy
 2. Cài đặt [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 3. Cài đặt [Lombok Plugin](https://plugins.jetbrains.com/plugin/6317-lombok/)
@@ -134,7 +134,7 @@ Lướt dạo rồi té :'(
 2. [spring-security-hibernate](https://github.com/loda-kun/spring-boot-learning/tree/master/spring-security-hibernate): Hướng dẫn Spring Boot + Security + H2 Database
 3. [spring-security-hibernate-jwt](https://github.com/loda-kun/spring-boot-learning/tree/master/spring-security-hibernate-jwt): Hướng dẫn String Security + JWT (Json Web Token)
 
-### Others
+<!-- ### Others
 
 1. [test-mockito-basic](https://github.com/loda-kun/spring-boot-learning/tree/master/test-mockito-basic): [Test] Hướng dẫn toàn tập Mockito
 ---
@@ -169,7 +169,7 @@ Hi vọng việc này sẽ giúp đỡ cho các tân binh mới vào nghề dễ
 
 Mọi thông tin xin liên hệ: [https://loda.me/about](https://loda.me/about)
 
-![](docs/images/qr-code.png)
+![](docs/images/qr-code.png) -->
 
 
 
